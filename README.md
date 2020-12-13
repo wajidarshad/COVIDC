@@ -6,4 +6,4 @@
 4- DenseNet121 CNN based pretrained model
 
 ## How to use?
-Please see covidc.py
+Please see covidc_with_weights.py
