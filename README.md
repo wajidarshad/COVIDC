@@ -5,5 +5,5 @@
 3- Tensorflow 
 4- DenseNet121 CNN based pretrained model
 
-How to use?
+# How to use?
 Please see covidc.py
