@@ -1,4 +1,4 @@
-# COVIDC: An Expert System to diagnose COVID-19 and predict its severity
+## COVIDC: An Expert System to diagnose COVID-19 and predict its severity
 # Dependencies
 1- python 3.6 
 2- Scikit Learn 0.23 
