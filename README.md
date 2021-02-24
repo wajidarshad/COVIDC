@@ -1,4 +1,4 @@
-# COVIDC: An Expert System to diagnose COVID-19 and predict its severity using Chest CT Scans
+# COVIDC: An Expert System to Diagnose COVID-19 and Predict its Severity using Chest CT Scans: Application in Radiology
 ## Dependencies
 1- python 3.6 
 2- Scikit Learn 0.23 
@@ -7,3 +7,7 @@
 
 ## How to use?
 Please see covidc_with_weights.py (For its webserver please visit https://covidc.pythonanywhere.com/)
+## citation detail
+Wajid Arshad Abbasi, Syed Ali Abbas, Saiqa Andleeb, Ghafoor ul Islam, Syeda Adin Ajaz, Kinza Arshad, Sadia Khalil, Asma Anjam, Kashif Ilyas, Mohsib Saleem, Jawad Chughtai, Ayesha Abbas,
+COVIDC: An Expert System to Diagnose COVID-19 and Predict its Severity using Chest CT Scans: Application in Radiology,
+Informatics in Medicine Unlocked, 2021,100540,https://doi.org/10.1016/j.imu.2021.100540.
